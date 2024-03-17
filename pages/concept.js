@@ -44,7 +44,7 @@ function Concept() {
                     data-gallery='example-gallery'
                     className='col-sm-4'
                   >
-                    <img
+                    <Image
                       className='img-fluid'
                       src={image.name}
                       width={800}
